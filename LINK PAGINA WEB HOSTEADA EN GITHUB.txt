@@ -3,11 +3,25 @@
 Cordial saludo, por acá dejo enlace página hosteada.
 
 
+en github  --> https://javierferrec.github.io/ProyectoFinal_JavierFerre/index.html
 
-
+en netlify --> https://stunning-queijadas-5313db.netlify.app/#
 
 
 
 Mil gracias...
 
 Atte   Javier Ferre
+
+
+
+Nota: Cometì un error al subir la carpeta del proyecto final al github, en la rama principal (main) habìa subido una carpeta dentro de otra
+el proyecto estaba en la carpeta interna, al momento de querer subirla al host no se publicaba y ya habìa compartido el link al repositorio, tuve
+que dejarla allì porquee de lo contrario, ustedees no podrìan entrar. 
+   Una vez hecha las revisiones y entender la falla, procedì a copiar los archivos a la carpeta principal del main, pero dejando la carpeta
+original allì tambièn (no debe ir allì, peo si la quito, ustedes pierden el acceso), dejè dos links a la pàgina web por si llega a fallar alguno.
+- Github hosting
+- Netlify hosting.
+
+ gracias.. por favor pedonenme el error (soy novato)   O:-)
+
