@@ -5,7 +5,7 @@ Cordial saludo, por acá dejo enlace página hosteada.
 
 en github  --> https://javierferrec.github.io/ProyectoFinal_JavierFerre/index.html
 
-en netlify --> https://stunning-queijadas-5313db.netlify.app/#
+en netlify --> https://yosoyuncreador.netlify.app/
 
 
 
