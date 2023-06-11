@@ -1,0 +1,40 @@
+
+
+Saludos... espero esté muy bien. 
+
+
+
+Por acá dejo link a la página hosteada en github:           https://javierferrec.github.io/JavierFerre_preentrega3/
+
+
+
+
+
+
+
+Notas:
+
+- Esta página posee aún algunos detalles que quiero cambiar, es un poyecto totalmente nuevo basado en la versión anterior
+  que fue corregida en la preentrega 2.
+
+   * Voy a cambiar los enlaces del nav para quee se desplieguen, porr cuestiones de tiempo no logré teminarlo para sta entrega,
+     sin embargo queda pendiente, ya que no logré haceeer andar en menú desplegable (hamburguesa) no hubo forma. Debo revisar.
+
+   * En cuanto al blog, pretendo hacer un sidebar con la tarjeta de los artículos y que estos se abran en un iframe en la página,
+     he generado la estructura, pero al momento de abrir el link, ste despliega otra página (aún habiendo establecido qu abriera dentro 
+     del iframe, probando con id´s y otros recursos, peo no lo logré) por ahorra quitée los códigos y lo dejé lineal, sí pudisen por favor
+     orientarme, estaré muy agradecido.
+
+ Mil gracias por la atención, cualquier observación o recomendaciones que me sean de ayuda para mejorar será muy bien recibido. De antemano, mil mil gracias...
+
+
+
+   Atte. Javier Ferre
+
+
+
+
+
+
+ 
+ 

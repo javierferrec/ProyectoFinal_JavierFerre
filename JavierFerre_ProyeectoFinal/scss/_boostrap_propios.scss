@@ -1,0 +1,87 @@
+/** ESTILOS PROPIOS PARA BOOSTRAP **/
+
+
+.nav__links {
+  background-color: rgba(0, 0, 0, 1);
+  background-image: linear-gradient(90deg, rgba(0, 0, 0, 1) 27%, rgba(111, 44, 134, 1) 56%, rgba(141, 52, 193, 1) 72%, rgba(207, 142, 214, 1) 92%);
+}
+
+.nav__link {
+  font-family: roboto;
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.nav__link a {
+  color: #ffffff;
+  display: flex;
+}
+
+
+.nav__link a:hover {
+  color: #ff00d0;
+}
+
+
+
+
+
+.nav__style .nav-link {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.nav__style .nav-link:hover {
+  color: #ff00d0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Página contacto */
+
+.button-group {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 2rem;
+}
+
+.btn__color {
+  margin-top: 1rem;
+  color: #ffffff;
+  background-color: #6f2c86;
+  border-color: #797171;
+  box-shadow: 0px 0px 10px 3px rgba(121, 113, 113, 0.5);
+  transition: box-shadow 0.3s;
+}
+
+.btn__color:hover {
+  box-shadow: 0px 0px 15px 5px rgba(121, 113, 113, 0.7);
+}
+
+.btn__color:active {
+  box-shadow: 0px 0px 5px 1px rgba(121, 113, 113, 0.7);
+}
+
+.font__form {
+  font-family: roboto;
+  font-size: 1rem;
+  color: #ffffff;
+}
+
+.text__white {
+  color: #ffffff;
+
+}

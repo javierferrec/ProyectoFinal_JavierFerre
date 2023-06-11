@@ -1,0 +1,183 @@
+/*** MEDIA QUERIES ***/
+
+
+/* sección 1  navbar */
+
+@media (max-width: 425px) {
+  .topbar__logo {
+    height: 12rem;
+  }
+}
+
+
+/* sección 2 navbar */
+
+@media (max-width: 425px) {
+  .topbar {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .topbar__email {
+    text-align: center;
+  }
+
+  .social__icons {
+    margin-top: 10px;
+    justify-content: center;
+  }
+}
+
+
+
+/* página contacto */
+
+@media screen and (max-width: 767px) {
+  .box__container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .box__image, .contact__form {
+    width: 80%;
+    margin-bottom: 3rem;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  .text__p {
+    font-size: 1rem;
+    font-family: roboto;
+    color: #ffffff;
+    text-align: justify;
+    padding-left: 0.8rem;
+    padding-right: 0rem;
+  }
+}
+
+
+/* Estilos para dispositivos móviles página Yo soy*/
+
+@media screen and (max-width: 767px) {
+  .card-container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .card {
+    width: 45%;
+    margin: 1rem 1rem;
+  }
+  
+  .card-title {
+    font-size: 1.2rem; 
+  }
+
+  .card-text {
+    font-size: 0.9rem; 
+  }
+}
+
+@media screen and (max-width: 570px) {
+  .card {
+    width: 80%; 
+    height: 500px;
+    margin-bottom: 1.5rem;
+  }
+}
+
+
+/* Media queries de Yo soy y Recursos */
+
+@media (max-width: 767px) {
+  .box__top {
+    flex-direction: column;
+  }
+
+  .top__img,
+  .top__text {
+    width: 100%;
+  }
+}
+
+
+
+/* Estilos para dispositivos medianos página Recursos - Galería */
+@media screen and (max-width: 767px) {
+  .gallery__item {
+    flex: 0 0 50%;
+  }
+}
+
+/* Estilos para dispositivos pequeños página Recursos - Galería */
+@media screen and (max-width: 570px) {
+  .gallery__item {
+    flex: 0 0 100%;
+  }
+}
+
+.gallery__image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 3px rgba(121, 44, 134, 0.5);
+  transition: box-shadow 0.3s;
+}
+
+.gallery__image:hover {
+  box-shadow: 0px 0px 15px 5px rgba(121, 44, 134, 0.8);
+}
+
+
+/* Estilos para las tarjetas específicas de libros en página Recursos */
+
+@media (max-width: 570px) {
+  .card-container {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .card-image {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+  }
+}
+
+
+/* Estilos responsivos artículos del blog */
+@media (max-width: 767px) {
+  .article__title {
+    font-size: 1.3rem;
+  }
+
+  .article__subtitle {
+    font-size: 0.9rem;
+  }
+
+  .article__text p {
+    font-size: 0.8rem;
+  }
+
+  .article__author {
+    font-size: 0.7rem;
+  }
+}
+
+
+/* Estilo responsivo para el blog */
+
+@media (max-width: 768px) {
+  .blog__sub-section {
+    width: 100%;
+  }
+}
+
+
+
+
+
