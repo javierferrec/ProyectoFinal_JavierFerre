@@ -1,0 +1,30 @@
+
+/* Carrusel inicial blog */
+
+.square-carousel {
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.square-carousel .carousel-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.square-carousel .carousel-item {
+  width: 100%;
+  height: 100%;
+}
+
+.square-carousel .carousel-item img {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
